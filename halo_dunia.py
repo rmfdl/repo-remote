@@ -1,2 +1,4 @@
-print('halo dunia')
-print('Belajar AI')
+print('halo ORBIT')
+print('Belajar ML')
+print('yess !')
+
